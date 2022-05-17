@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/upApp/static/css/main.3414399e.css",
+    "main.js": "/upApp/static/js/main.4b0548fa.js",
+    "static/media/soccer.jpg": "/upApp/static/media/soccer.ef9ac0349adafa0f9043.jpg",
+    "static/media/nature.jpg": "/upApp/static/media/nature.be3feab6e214fe0a2f9d.jpg",
+    "static/media/cars.jpg": "/upApp/static/media/cars.702e58d6f97119ff425c.jpg",
+    "static/media/instagram.jpg": "/upApp/static/media/instagram.1f5b737339cc27ee8c9c.jpg",
+    "index.html": "/upApp/index.html",
+    "main.3414399e.css.map": "/upApp/static/css/main.3414399e.css.map",
+    "main.4b0548fa.js.map": "/upApp/static/js/main.4b0548fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3414399e.css",
+    "static/js/main.4b0548fa.js"
+  ]
+}
